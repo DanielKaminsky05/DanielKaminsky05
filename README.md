@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Daniel Kaminsky and I am a student at Western University pursuing a degree in the field of computer science. 
-![607598d0230e6a00018e21b2-image_354b1b56](https://github.com/DanielKaminsky05/DanielKaminsky05/assets/163561938/e8f2acb5-c596-4845-a5a6-bd7c2fdd412a)
+
 
 <!--
 **DanielKaminsky05/DanielKaminsky05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
