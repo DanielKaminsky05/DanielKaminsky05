@@ -1,4 +1,4 @@
-**My name is Daniel**
+# My name is Daniel
 
 **I'm a third-year student at Western University pursuing an Honours Specialization in Computer Science.**  
 I have a passion for creating cool things and enjoy working in teams to bring ideas to life.
