@@ -28,8 +28,8 @@ On the more professional side, I am passionate about
 
 **Notable Projects**
 
-- 🔒 **Secureframe** – Pixel-level video encryption with YOLOv8 + AES + Frontend  
-- ☀️ **SolarMap** – NASA POWER API + Flask + React → Solar/Wind energy viability tool  
+- 🔒 **Secureframe** – Pixel-level video encryption with **YOLOv8 + AES + React + Flask** 
+- ☀️ **SolarMap** – **NASA POWER API + Express + React** → Solar/Wind energy viability tool  
 - 🎮 **Steam Dashboard** – Game data + AI recommendations using **Steam API + Express + Supabase**  
 - 📅 **12-Week Planner** – Productivity Web App with **Next.js, Supabase, RRule** (Private Repo)
   
